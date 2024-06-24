@@ -12,7 +12,7 @@
   </p>  
 </div>
 
-- 📄 Know about my experiences **[MY CV](https://drive.google.com/file/d/1OFJjkt2BubJiH3hstbgm9C31dRMoIFfc/view?usp=drive_link)**.
+- 📄 Know about my experiences **[MY CV](https://drive.google.com/file/d/1BMpw4PPm5KED9gPLlw50MCvWii3melWf/view?usp=drive_link)**.
 
 
 <br/>  
