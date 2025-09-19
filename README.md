@@ -39,7 +39,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
   </a>
-<a href="johnamir911@gmail.com" target="_blank">
+<a href="mailto:johnamir911@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/john-amir-135587240" target="_blank">
